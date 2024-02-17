@@ -1,3 +1,6 @@
+//Authors: Vincent and Connor 
+//Date: Feb. 16th 2024
+
 public class VerticallyFlipped implements TextBlock{
 
   TextBlock top;
